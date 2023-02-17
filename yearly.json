@@ -1,0 +1,58 @@
+{
+    "2020": [
+        {
+            "name": "Leo Onyia",
+            "salary": "1500000",
+            "password": "leodarn",
+            "email": "leo37@yahoo.co.uk",
+            "phone": "08022716112",
+            "occupation": "Accountant",
+            "kid": "6",
+            "plan": "yearly",
+            "marital": "married",
+            "tax": "1806000.0"
+        }
+    ],
+    "2021": [
+        {
+            "name": "Beatrice ",
+            "salary": "2000000",
+            "password": "mrsali",
+            "email": "beatrix@gmail.com",
+            "phone": "09045673838",
+            "occupation": "HOU",
+            "kid": "2",
+            "plan": "yearly",
+            "marital": "married",
+            "tax": "2402000.0"
+        }
+    ],
+    "2022": [
+        {
+            "name": "Jason",
+            "salary": "20000000",
+            "password": "jax",
+            "email": "jasondeerulo@gmail.com",
+            "phone": "09147389392",
+            "occupation": "Soft. Dev",
+            "kid": "0",
+            "plan": "yearly",
+            "marital": "single",
+            "tax": "24000000.0"
+        }
+    ],
+    "2023": [
+        {
+            "name": "Stanley",
+            "salary": "20000000",
+            "password": "stano0",
+            "email": "majorstan@gmail.com",
+            "phone": "07059305748",
+            "occupation": "Soft.Dev",
+            "kid": "0",
+            "plan": "yearly",
+            "marital": "single",
+            "tax": "24000000.0"
+        }
+    ]
+}

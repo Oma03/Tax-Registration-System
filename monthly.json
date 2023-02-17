@@ -1,0 +1,200 @@
+{
+    "january": [
+        {
+            "name": "Oma Onyia",
+            "salary": "20000000",
+            "password": "nmesoma",
+            "email": "omasirichim@gmail..com",
+            "phone": "08078748109",
+            "occupation": "Software Developer",
+            "kid": "2",
+            "plan": "monthly",
+            "marital": "single",
+            "tax": "1200000.0"
+        }
+    ],
+    "february": [
+        {
+            "name": "Zim Onyia",
+            "salary": "85000000",
+            "password": "zimx",
+            "email": "zimffred@gmail.com",
+            "phone": "08076554445",
+            "occupation": "Ethical Hacker",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "single",
+            "tax": "8500000.0"
+        },
+        {
+            "name": "poikmoikm",
+            "salary": "78999000",
+            "password": "kl,om",
+            "email": "jkkjmkmklm",
+            "phone": "099979887",
+            "occupation": "kmk m",
+            "kid": "98",
+            "plan": "monthly",
+            "marital": "married",
+            "tax": "7997900.0"
+        }
+    ],
+    "march": [
+        {
+            "name": "Buchi ",
+            "salary": "2000000",
+            "password": "bucheche",
+            "email": "buchiw@gmail.com",
+            "phone": "08045663126",
+            "occupation": "HOU",
+            "kid": "6",
+            "plan": "monthly",
+            "marital": "married",
+            "tax": "206000.0"
+        }
+    ],
+    "april": [
+        {
+            "name": "Chimere",
+            "salary": "1000000",
+            "password": "Cimlox",
+            "email": "Chimiri@gmail.com",
+            "phone": "0703427193",
+            "occupation": "Economist",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "single",
+            "tax": "100000.0"
+        },
+        {
+            "name": "Buchi",
+            "password": "buchi",
+            "plan": "monthly",
+            "tax": "206000.0"
+        }
+    ],
+    "may": [
+        {
+            "name": "Ebuka",
+            "salary": "100000000",
+            "password": "nnanyelugo0",
+            "email": "Nanyigulo@yahoo.com",
+            "phone": "+12 3992 800",
+            "occupation": "Footballer",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "married",
+            "tax": "8000000.0"
+        },
+        {
+            "name": "Buchi",
+            "password": "bucheche",
+            "plan": "monthly",
+            "tax": "206000.0"
+        }
+    ],
+    "june": [
+        {
+            "name": "Daphne",
+            "salary": "500000",
+            "password": "daphwhale",
+            "email": "daphwert@yahoo.com",
+            "phone": "+12 3899 099",
+            "occupation": "Doctor",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "married",
+            "tax": "40000.0"
+        },
+        {
+            "name": "Buchi",
+            "password": "bucheche",
+            "plan": "monthly",
+            "tax": "206000.0"
+        }
+    ],
+    "july": [
+        {
+            "name": "Chigo",
+            "salary": "8000000",
+            "password": "princess",
+            "email": "princessaki@gmail.com",
+            "phone": "09087265353",
+            "occupation": "Lawyer",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "single",
+            "tax": "800000.0"
+        }
+    ],
+    "august": [
+        {
+            "name": "Igo",
+            "salary": "500000",
+            "password": "prince",
+            "email": "princealix@gmail.com",
+            "phone": "0818483398",
+            "occupation": "Accountant",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "single",
+            "tax": "50000.0"
+        }
+    ],
+    "september": [
+        {
+            "name": "KIngsley",
+            "salary": "10000000",
+            "password": "walcoott",
+            "email": "kinssss@gmail.com",
+            "phone": "09023883333",
+            "occupation": "Footballer",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "single",
+            "tax": "1000000.0"
+        }
+    ],
+    "october": [
+        {
+            "name": "Nnana",
+            "salary": "10000000",
+            "password": "udocrocs",
+            "email": "udoakpia@gmail.com",
+            "phone": "08975544560",
+            "occupation": "Journalist",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "married",
+            "tax": "800000.0"
+        }
+    ],
+    "november": [
+        {
+            "name": "Micheal",
+            "salary": "800000",
+            "password": "owivi",
+            "email": "owiviri@yahoo.com",
+            "phone": "08156383937",
+            "occupation": "Frontend Developer",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "single",
+            "tax": "80000.0"
+        }
+    ],
+    "december": [
+        {
+            "name": "NINIO",
+            "salary": "2000000",
+            "password": "favour",
+            "email": "favsern@gmail.com",
+            "phone": "07086555674",
+            "occupation": "Engineer",
+            "kid": "0",
+            "plan": "monthly",
+            "marital": "single",
+            "tax": "200000.0"
+        }
+    ]
+}
